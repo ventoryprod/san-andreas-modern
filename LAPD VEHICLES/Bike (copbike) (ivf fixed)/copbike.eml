@@ -1,0 +1,8 @@
+523            5
+# lights here FF 3A 02 - RED, 02 90 FF - blue, FF CA 00 - Yellow
+#  id parent id  R  G  B  A   light type  corona size  shadow size  flash inertia  num switches  starting state  switching time
+    1     0      FF 3A 02 80       0          0.8           0            99.9            1             0         0
+	2     0      02 90 FF 80       0          0.8           0            99.9            2             0         500 1000
+	3     0      FF 3A 02 80       0          0.8           0            99.9            2             1         500 1000
+	4     0      FF CA 00 80       0          0.8           0            99.9            2             0         200 400
+	5     0      02 90 FF 80       0          0.8           0            99.9            2             1         200 400

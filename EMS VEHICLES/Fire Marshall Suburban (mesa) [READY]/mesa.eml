@@ -1,0 +1,13 @@
+500            10
+# lights here
+#  id parent id  R  G  B  A   light type  corona size  shadow size  flash inertia  num switches  starting state  switching time
+	1      0      FF FF FF 80       4          0.7           0            15.0            2         1       350 825
+	2      0      FF 20 00 80       4          0.7           0            15.0            2         0       150 350
+	3      0      FF 20 00 80       4          0.7           0            15.0            2         1       150 350
+	4      0      FF 20 00 80       4          0.7           0            15.0            2         0       150 350
+	5      0      FF FF FF 80       4          0.7           0            15.0            2         1       350 825
+	6      0      FF FF FF 80       4          0.7           0            15.0            2         1       350 825
+	7      0      FF FF FF 80       4          0.7           0            15.0            2         1       350 825
+	8      0      FF 20 00 80       4          0.7           0            15.0            2         0       150 350
+	9      0      FF 20 00 80       4          0.7           0            15.0            2         1       150 350
+	10     0      FF 20 00 80       4          0.7           0            15.0            2         0       150 350
